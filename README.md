@@ -5,7 +5,7 @@ His expertise includes cloud-native technologies, Kubernetes, multi-cloud infras
 Beyond technical expertise, he emphasizes developer experience and collaboration. He believes in treating teams as internal customers, ensuring engineering solutions empower developers while aligning with organizational goals. He has led numerous platform initiatives, built self-service tooling, and introduced best practices in CI/CD, monitoring, and security. Creating golden patterns, reusable solutions, and defining long-term strategies that drive business value is where he thrives.
 
 
-[![Personal Email Badge](https://img.shields.io/badge/hi@chetan-blue?style=for-the-badge)](mailto:hi@singh.chetand@gmail.com.com)
+[![Personal Email Badge](https://img.shields.io/badge/hi@chetan-blue?style=for-the-badge)](mailto:singh.chetand@gmail.com)
 [![Coffee Chat Badge](https://img.shields.io/badge/-coffee%20chat-lightgrey?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://calendly.com/singh-chetand)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/singh-chetan)
 
